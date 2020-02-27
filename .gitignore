@@ -1,7 +1,15 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# See http://help.github.com/ignore-files/ for more about ignoring files.
 
-/.vs/GooglePayRxWebApp/v16/Server/sqlite3/db.lock
-/.vs/GooglePayRxWebApp/v16/Server/sqlite3/storage.ide-shm
-/.vs/GooglePayRxWebApp/v16/Server/sqlite3/storage.ide-wal
+
+
+
+
+
+
+# IDEs and editors
+/.vs
+
+# IDE - VSCode
+.vs
+
+/GooglePayRxWebApp.Domain/.gitignore
