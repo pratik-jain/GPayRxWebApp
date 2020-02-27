@@ -21,12 +21,11 @@ namespace GooglePayRxWebApp.Models.Main
 
 		#region UserId Annotations
 
-        [Range(1,int.MaxValue)]
         [Required]
         [RelationshipTableAttribue("GpayUsers","dbo","","UserId")]
 		#endregion UserId Annotations
 
-        public int UserId { get; set; }
+        public long UserId { get; set; }
 
 
         public Nullable<double> Amount { get; set; }

@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {}
+    "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {}
   },
   "projects": {
-    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+    "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+        "projectUniqueName": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
         "projectName": "GooglePayRxWebApp.BoundedContext",
-        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+        "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
         "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\obj\\",
+        "outputPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
-                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
+              "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+                "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
               }
             }
           }
@@ -85,18 +82,15 @@
         }
       }
     },
-    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+    "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
+        "projectUniqueName": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
         "projectName": "GooglePayRxWebApp.Models",
-        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
+        "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
         "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\obj\\",
+        "outputPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -166,18 +160,15 @@
         }
       }
     },
-    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
+    "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
+        "projectUniqueName": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
         "projectName": "GooglePayRxWebApp.UnitOfWork",
-        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
+        "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\obj\\",
+        "outputPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -192,8 +183,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
-                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
+              "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+                "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
               }
             }
           }

@@ -4,6 +4,12 @@ import { gridColumn } from "@rxweb/grid"
 
 export class vBankAccountInformationBase {
 
+//#region bankId Prop
+        @gridColumn({visible: true, columnIndex:5, allowSorting: true, headerKey: 'bankId', keyColumn: false})
+        bankId : any;
+//#endregion bankId Prop
+
+
 //#region userName Prop
         @gridColumn({visible: true, columnIndex:0, allowSorting: true, headerKey: 'userName', keyColumn: false})
         userName : string;
@@ -14,6 +20,12 @@ export class vBankAccountInformationBase {
         @gridColumn({visible: true, columnIndex:1, allowSorting: true, headerKey: 'mobileNumber', keyColumn: false})
         mobileNumber : string;
 //#endregion mobileNumber Prop
+
+
+//#region accountNumber Prop
+        @gridColumn({visible: true, columnIndex:6, allowSorting: true, headerKey: 'accountNumber', keyColumn: false})
+        accountNumber : any;
+//#endregion accountNumber Prop
 
 
 //#region upiId Prop
@@ -34,18 +46,6 @@ export class vBankAccountInformationBase {
 //#endregion upiPriority Prop
 
 
-//#region bankId Prop
-        @gridColumn({visible: true, columnIndex:5, allowSorting: true, headerKey: 'bankId', keyColumn: false})
-        bankId : any;
-//#endregion bankId Prop
-
-
-//#region accountNumber Prop
-        @gridColumn({visible: true, columnIndex:6, allowSorting: true, headerKey: 'accountNumber', keyColumn: false})
-        accountNumber : any;
-//#endregion accountNumber Prop
-
-
 //#region addedStatus Prop
         @gridColumn({visible: true, columnIndex:7, allowSorting: true, headerKey: 'addedStatus', keyColumn: false})
         addedStatus : boolean;
@@ -54,7 +54,7 @@ export class vBankAccountInformationBase {
 
 //#region gPayUserId Prop
         @gridColumn({visible: true, columnIndex:8, allowSorting: true, headerKey: 'gPayUserId', keyColumn: true})
-        gPayUserId : number;
+        gPayUserId : any;
 //#endregion gPayUserId Prop
 
 }

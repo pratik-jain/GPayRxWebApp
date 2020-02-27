@@ -7038,21 +7038,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\radix\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\radix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
+      "projectUniqueName": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
       "projectName": "GooglePayRxWebApp.Infrastructure",
-      "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
+      "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\obj\\",
+      "outputPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7067,14 +7063,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
-              "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
+            "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+              "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
             },
-            "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
-              "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
+            "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+              "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
             },
-            "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
-              "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj"
+            "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
+              "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj"
             }
           }
         }

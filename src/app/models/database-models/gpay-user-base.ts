@@ -6,7 +6,7 @@ export class GpayUserBase {
 
 //#region gPayUserId Prop
         @prop()
-        gPayUserId : number;
+        gPayUserId : any;
 //#endregion gPayUserId Prop
 
 

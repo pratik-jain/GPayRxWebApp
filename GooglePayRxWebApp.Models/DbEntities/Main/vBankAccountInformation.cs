@@ -11,10 +11,16 @@ namespace GooglePayRxWebApp.Models.Main
     public partial class vBankAccountInformation
     {
 
+        public short BankId { get; set; }
+
+
         public string UserName { get; set; }
 
 
         public string MobileNumber { get; set; }
+
+
+        public long AccountNumber { get; set; }
 
 
         public long UpiId { get; set; }
@@ -26,21 +32,10 @@ namespace GooglePayRxWebApp.Models.Main
         public bool UpiPriority { get; set; }
 
 
-        public short BankId { get; set; }
-
-
-        public long AccountNumber { get; set; }
-
-
         public bool AddedStatus { get; set; }
 
-		#region GPayUserId Annotations
 
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [System.ComponentModel.DataAnnotations.Key]
-		#endregion GPayUserId Annotations
-
-        public int GPayUserId { get; set; }
+        public long GPayUserId { get; set; }
 
 
         public vBankAccountInformation()

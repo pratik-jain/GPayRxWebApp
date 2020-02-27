@@ -11,16 +11,14 @@ export class TransactionBase {
 
 
 //#region senderId Prop
-        @range({minimumNumber:1,maximumNumber:2147483647})
         @required()
-        senderId : number;
+        senderId : any;
 //#endregion senderId Prop
 
 
 //#region reciverId Prop
-        @range({minimumNumber:1,maximumNumber:2147483647})
         @required()
-        reciverId : number;
+        reciverId : any;
 //#endregion reciverId Prop
 
 

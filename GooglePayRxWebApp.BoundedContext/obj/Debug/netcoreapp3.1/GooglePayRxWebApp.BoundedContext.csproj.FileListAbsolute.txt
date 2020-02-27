@@ -11,3 +11,16 @@ C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\b
 C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.csproj.CopyComplete
 C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.dll
 C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.pdb
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.csprojAssemblyReference.cache
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.AssemblyInfoInputs.cache
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.AssemblyInfo.cs
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.dll
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.pdb
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.deps.json
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.runtimeconfig.json
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.runtimeconfig.dev.json
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.dll
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.pdb
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
+D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.csproj.CopyComplete

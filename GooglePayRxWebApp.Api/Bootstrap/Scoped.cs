@@ -16,14 +16,8 @@ using GooglePayRxWebApp.Domain.GpayUserModule;
             using GooglePayRxWebApp.Domain.RewardModule;
             using GooglePayRxWebApp.Domain.scratchModule;
             using GooglePayRxWebApp.Domain.OTPVerifyModule;
+            using GooglePayRxWebApp.Domain.UpiModule;
             #endregion Namespace
-
-
-
-
-
-
-
 
 
 
@@ -56,7 +50,13 @@ namespace GooglePayRxWebApp.Api.Bootstrap
             serviceCollection.AddScoped<IRewardUow, RewardUow>();
                         serviceCollection.AddScoped<IScratchContext, ScratchContext>();
             serviceCollection.AddScoped<IScratchUow, ScratchUow>();
+            serviceCollection.AddScoped<IUpiUow,UpiUow>();
+                                    
+                        serviceCollection.AddScoped<IUpiContext, UpiContext>();
+            serviceCollection.AddScoped<IUpiUow, UpiUow>();
             #endregion ContextService
+
+
 
 
 
@@ -87,6 +87,7 @@ namespace GooglePayRxWebApp.Api.Bootstrap
             serviceCollection.AddScoped<IScratchDomain, ScratchDomain>();
             
             serviceCollection.AddScoped<IOTPVerifyDomain, OTPVerifyDomain>();
+            serviceCollection.AddScoped<IUpiDomain, UpiDomain>();
             #endregion DomainService
 
 

@@ -21,21 +21,19 @@ namespace GooglePayRxWebApp.Models.Main
 
 		#region SenderId Annotations
 
-        [Range(1,int.MaxValue)]
         [Required]
         [RelationshipTableAttribue("GpayUsers","dbo","","SenderId")]
 		#endregion SenderId Annotations
 
-        public int SenderId { get; set; }
+        public long SenderId { get; set; }
 
 		#region ReciverId Annotations
 
-        [Range(1,int.MaxValue)]
         [Required]
         [RelationshipTableAttribue("GpayUsers","dbo","","ReciverId")]
 		#endregion ReciverId Annotations
 
-        public int ReciverId { get; set; }
+        public long ReciverId { get; set; }
 
 		#region Amount Annotations
 

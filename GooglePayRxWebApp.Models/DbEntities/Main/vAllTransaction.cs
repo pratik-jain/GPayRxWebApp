@@ -10,13 +10,29 @@ namespace GooglePayRxWebApp.Models.Main
     [Table("vAllTransactions",Schema="dbo")]
     public partial class vAllTransaction
     {
-		#region GPayUserId Annotations
 
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [System.ComponentModel.DataAnnotations.Key]
-		#endregion GPayUserId Annotations
+        public long TransactionId { get; set; }
 
-        public int GPayUserId { get; set; }
+
+        public long SenderId { get; set; }
+
+
+        public long ReciverId { get; set; }
+
+
+        public double Amount { get; set; }
+
+
+        public long UPIId { get; set; }
+
+
+        public string Remarks { get; set; }
+
+
+        public byte TransactionStatus { get; set; }
+
+
+        public System.DateTime SendDate { get; set; }
 
 
         public string MobileNumber { get; set; }
@@ -25,28 +41,7 @@ namespace GooglePayRxWebApp.Models.Main
         public string UserName { get; set; }
 
 
-        public long TransactionId { get; set; }
-
-
-        public int SenderId { get; set; }
-
-
-        public double Amount { get; set; }
-
-
-        public int ReciverId { get; set; }
-
-
-        public System.DateTime SendDate { get; set; }
-
-
-        public byte TransactionStatus { get; set; }
-
-
-        public long UPIId { get; set; }
-
-
-        public string Remarks { get; set; }
+        public long GPayUserId { get; set; }
 
 
         public vAllTransaction()

@@ -17,7 +17,7 @@ namespace GooglePayRxWebApp.Models.Main
         [System.ComponentModel.DataAnnotations.Key]
 		#endregion GPayUserId Annotations
 
-        public int GPayUserId { get; set; }
+        public long GPayUserId { get; set; }
 
 		#region MobileNumber Annotations
 
@@ -67,20 +67,6 @@ namespace GooglePayRxWebApp.Models.Main
 
         public virtual UserTypeObject UserTypeObject { get; set; }
 
-		#region Rewards Annotations
-
-        [InverseProperty("GpayUser")]
-		#endregion Rewards Annotations
-
-        public virtual ICollection<Reward> Rewards { get; set; }
-
-		#region UserBankDetails Annotations
-
-        [InverseProperty("GpayUser")]
-		#endregion UserBankDetails Annotations
-
-        public virtual ICollection<UserBankDetail> UserBankDetails { get; set; }
-
 		#region Transactions Annotations
 
         [InverseProperty("GpayUser")]
@@ -95,13 +81,27 @@ namespace GooglePayRxWebApp.Models.Main
 
         public virtual ICollection<Transaction> Transactions1 { get; set; }
 
+		#region UserBankDetails Annotations
+
+        [InverseProperty("GpayUser")]
+		#endregion UserBankDetails Annotations
+
+        public virtual ICollection<UserBankDetail> UserBankDetails { get; set; }
+
+		#region Rewards Annotations
+
+        [InverseProperty("GpayUser")]
+		#endregion Rewards Annotations
+
+        public virtual ICollection<Reward> Rewards { get; set; }
+
 
         public GpayUser()
         {
-			Rewards = new HashSet<Reward>();
-			UserBankDetails = new HashSet<UserBankDetail>();
 			Transactions = new HashSet<Transaction>();
 			Transactions1 = new HashSet<Transaction>();
+			UserBankDetails = new HashSet<UserBankDetail>();
+			Rewards = new HashSet<Reward>();
         }
 	}
 }

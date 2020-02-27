@@ -29,9 +29,8 @@ export class UserBankDetailBase {
 
 
 //#region gPayUserId Prop
-        @range({minimumNumber:1,maximumNumber:2147483647})
         @required()
-        gPayUserId : number;
+        gPayUserId : any;
 //#endregion gPayUserId Prop
 
 

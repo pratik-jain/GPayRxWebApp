@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\radix\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\radix\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\radix\\.nuget\\packages"
     ]
   }
 }
