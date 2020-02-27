@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\GooglePayRxWebApp.Domain\GooglePayRxWebApp.Domain.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.BoundedContext\GooglePayRxWebApp.BoundedContext.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.Models\GooglePayRxWebApp.Models.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.Infrastructure\GooglePayRxWebApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.UnitOfWork\GooglePayRxWebApp.UnitOfWork.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="RxWeb.Core.AspNetCore" Version="3.0.4-preview1" />
+    <PackageReference Include="RxWeb.Core.Localization" Version="3.0.1" />
+    <PackageReference Include="RxWeb.Core.Logging" Version="3.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

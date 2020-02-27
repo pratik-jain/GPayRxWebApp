@@ -1,0 +1,13 @@
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.AssemblyInfo.cs
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.deps.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.runtimeconfig.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.runtimeconfig.dev.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.dll
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.pdb
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.csproj.CopyComplete
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.dll
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.BoundedContext\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.BoundedContext.pdb

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\GooglePayRxWebApp.Models\GooglePayRxWebApp.Models.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.BoundedContext\GooglePayRxWebApp.BoundedContext.csproj" />
+    <ProjectReference Include="..\GooglePayRxWebApp.UnitOfWork\GooglePayRxWebApp.UnitOfWork.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="RxWeb.Core" Version="2.0.3-preview1" />
+    <PackageReference Include="RxWeb.Core.Annotations" Version="2.0.4" />
+    <PackageReference Include="RxWeb.Core.Cache" Version="2.0.2" />
+    <PackageReference Include="RxWeb.Core.Sanitizers" Version="2.0.3" />
+    <PackageReference Include="RxWeb.Core.Security" Version="3.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

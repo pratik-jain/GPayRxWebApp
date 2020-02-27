@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+        "projectName": "GooglePayRxWebApp.BoundedContext",
+        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "RxWeb.Core.Data": {
+              "target": "Package",
+              "version": "[3.0.2-preview1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
+        "projectName": "GooglePayRxWebApp.Infrastructure",
+        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\GooglePayRxWebApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
+              },
+              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
+              },
+              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
+                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "RxWeb.Core": {
+              "target": "Package",
+              "version": "[2.0.3-preview1, )"
+            },
+            "RxWeb.Core.Annotations": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "RxWeb.Core.Cache": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "RxWeb.Core.Sanitizers": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "RxWeb.Core.Security": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
+        "projectName": "GooglePayRxWebApp.Models",
+        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "RxWeb.Core.Annotations": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "RxWeb.Core.Data": {
+              "target": "Package",
+              "version": "[3.0.2-preview1, )"
+            },
+            "RxWeb.Core.Sanitizers": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
+        "projectName": "GooglePayRxWebApp.UnitOfWork",
+        "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\GooglePayRxWebApp.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj": {
+                "projectPath": "D:\\GooglePayRxweB2nsGit\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

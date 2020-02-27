@@ -1,0 +1,10 @@
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.deps.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.AssemblyInfo.cs
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.runtimeconfig.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.runtimeconfig.dev.json
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+C:\Users\radix\source\repos\GooglePayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
