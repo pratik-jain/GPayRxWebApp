@@ -82,20 +82,6 @@ namespace GooglePayRxWebApp.Models.Main
 
         public Status StatusId { get; set; }
 
-		#region MobileNumber Annotations
-
-        [MaxLength(50)]
-		#endregion MobileNumber Annotations
-
-        public string MobileNumber { get; set; }
-
-		#region EmailId Annotations
-
-        [MaxLength(50)]
-		#endregion EmailId Annotations
-
-        public string EmailId { get; set; }
-
 		#region ApplicationUserTokens Annotations
 
         [InverseProperty("User")]

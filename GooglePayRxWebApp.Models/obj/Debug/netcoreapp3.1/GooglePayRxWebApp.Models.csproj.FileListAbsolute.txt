@@ -18,3 +18,12 @@ D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\Go
 D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.AssemblyInfo.cs
 D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
 D:\GPayRxweb2nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.deps.json
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.runtimeconfig.json
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.runtimeconfig.dev.json
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\bin\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.AssemblyInfoInputs.cache
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.AssemblyInfo.cs
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.dll
+D:\GooglePayRxWeb3nd\GPayRxWebApp\GooglePayRxWebApp.Models\obj\Debug\netcoreapp3.1\GooglePayRxWebApp.Models.pdb

@@ -19,9 +19,7 @@ using GooglePayRxWebApp.Domain.GpayUserModule;
             using GooglePayRxWebApp.Domain.UpiModule;
             #endregion Namespace
 
-
-
-
+  
 namespace GooglePayRxWebApp.Api.Bootstrap
 {
     public static class ScopedExtension
@@ -54,7 +52,16 @@ namespace GooglePayRxWebApp.Api.Bootstrap
                                     
                         serviceCollection.AddScoped<IUpiContext, UpiContext>();
             serviceCollection.AddScoped<IUpiUow, UpiUow>();
+                        serviceCollection.AddScoped<IHistoryContext, HistoryContext>();
+            serviceCollection.AddScoped<IHistoryUow, HistoryUow>();
+                        serviceCollection.AddScoped<ICardContext, CardContext>();
+            serviceCollection.AddScoped<ICardUow, CardUow>();
+                        serviceCollection.AddScoped<IBankContext, BankContext>();
+            serviceCollection.AddScoped<IBankUow, BankUow>();
             #endregion ContextService
+
+
+
 
 
 

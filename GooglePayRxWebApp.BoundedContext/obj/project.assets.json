@@ -6581,11 +6581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+      "projectUniqueName": "D:\\GooglePayRxWeb3nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
       "projectName": "GooglePayRxWebApp.BoundedContext",
-      "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
+      "projectPath": "D:\\GooglePayRxWeb3nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\GooglePayRxWebApp.BoundedContext.csproj",
       "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\obj\\",
+      "outputPath": "D:\\GooglePayRxWeb3nd\\GPayRxWebApp\\GooglePayRxWebApp.BoundedContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6601,8 +6601,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
-              "projectPath": "D:\\GPayRxweb2nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
+            "D:\\GooglePayRxWeb3nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj": {
+              "projectPath": "D:\\GooglePayRxWeb3nd\\GPayRxWebApp\\GooglePayRxWebApp.Models\\GooglePayRxWebApp.Models.csproj"
             }
           }
         }

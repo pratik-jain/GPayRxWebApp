@@ -11,9 +11,6 @@ namespace GooglePayRxWebApp.Models.Main
     public partial class vAllTransaction
     {
 
-        public long TransactionId { get; set; }
-
-
         public long SenderId { get; set; }
 
 
@@ -23,16 +20,19 @@ namespace GooglePayRxWebApp.Models.Main
         public double Amount { get; set; }
 
 
-        public long UPIId { get; set; }
+        public long TransactionId { get; set; }
 
 
-        public string Remarks { get; set; }
+        public System.DateTime SendDate { get; set; }
 
 
         public byte TransactionStatus { get; set; }
 
 
-        public System.DateTime SendDate { get; set; }
+        public long UPIId { get; set; }
+
+
+        public string Remarks { get; set; }
 
 
         public string MobileNumber { get; set; }

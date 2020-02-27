@@ -4,12 +4,6 @@ import { gridColumn } from "@rxweb/grid"
 
 export class vAllTransactionBase {
 
-//#region transactionId Prop
-        @gridColumn({visible: true, columnIndex:4, allowSorting: true, headerKey: 'transactionId', keyColumn: false})
-        transactionId : any;
-//#endregion transactionId Prop
-
-
 //#region senderId Prop
         @gridColumn({visible: true, columnIndex:5, allowSorting: true, headerKey: 'senderId', keyColumn: false})
         senderId : any;
@@ -28,6 +22,24 @@ export class vAllTransactionBase {
 //#endregion amount Prop
 
 
+//#region transactionId Prop
+        @gridColumn({visible: true, columnIndex:4, allowSorting: true, headerKey: 'transactionId', keyColumn: false})
+        transactionId : any;
+//#endregion transactionId Prop
+
+
+//#region sendDate Prop
+        @gridColumn({visible: true, columnIndex:8, allowSorting: true, headerKey: 'sendDate', keyColumn: false})
+        sendDate : any;
+//#endregion sendDate Prop
+
+
+//#region transactionStatus Prop
+        @gridColumn({visible: true, columnIndex:9, allowSorting: true, headerKey: 'transactionStatus', keyColumn: false})
+        transactionStatus : any;
+//#endregion transactionStatus Prop
+
+
 //#region uPIId Prop
         @gridColumn({visible: true, columnIndex:10, allowSorting: true, headerKey: 'uPIId', keyColumn: false})
         uPIId : any;
@@ -38,18 +50,6 @@ export class vAllTransactionBase {
         @gridColumn({visible: true, columnIndex:11, allowSorting: true, headerKey: 'remarks', keyColumn: false})
         remarks : string;
 //#endregion remarks Prop
-
-
-//#region transactionStatus Prop
-        @gridColumn({visible: true, columnIndex:9, allowSorting: true, headerKey: 'transactionStatus', keyColumn: false})
-        transactionStatus : any;
-//#endregion transactionStatus Prop
-
-
-//#region sendDate Prop
-        @gridColumn({visible: true, columnIndex:8, allowSorting: true, headerKey: 'sendDate', keyColumn: false})
-        sendDate : any;
-//#endregion sendDate Prop
 
 
 //#region mobileNumber Prop
