@@ -14,7 +14,7 @@
     <PackageReference Include="RxWeb.Core.Cache" Version="2.0.2" />
     <PackageReference Include="RxWeb.Core.Sanitizers" Version="2.0.3" />
     <PackageReference Include="RxWeb.Core.Security" Version="3.0.1" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <PropertyGroup>
